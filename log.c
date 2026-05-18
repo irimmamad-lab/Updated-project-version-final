@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #include "log.h"
 
 void writeLog(char message[]) {
