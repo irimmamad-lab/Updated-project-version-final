@@ -1,8 +1,7 @@
 #include <stdio.h>
-
-#include "../include/student.h"
-#include "../include/question.h"
-#include "../include/test.h"
+#include "student.h"
+#include "question.h"
+#include "test.h"
 
 int main() {
 
