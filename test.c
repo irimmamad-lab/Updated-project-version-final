@@ -3,6 +3,7 @@
 #include "test.h"
 #include "result.h"
 #include "log.h"
+
 void startTest(struct Student students[], int studentCount,
                struct Question questions[], int questionCount) {
 
