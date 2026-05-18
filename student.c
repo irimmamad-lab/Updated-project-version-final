@@ -1,8 +1,6 @@
 #include <stdio.h>
-
-#include "../include/student.h"
-#include "../include/log.h"
-
+#include "student.h"
+#include "log.h"
 
 void addStudent(struct Student students[], int *count) {
 
