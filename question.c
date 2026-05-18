@@ -1,7 +1,6 @@
 #include <stdio.h>
-
-#include "../include/question.h"
-#include "../include/log.h"
+#include "question.h"
+#include "log.h"
 
 void addQuestion(struct Question questions[], int *count) {
 
