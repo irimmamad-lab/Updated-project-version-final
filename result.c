@@ -1,7 +1,6 @@
 #include <stdio.h>
-
-#include "../include/result.h"
-#include "../include/log.h"
+#include "result.h"
+#include "log.h"
 
 void saveResult(struct Student student, int score, int total) {
 
